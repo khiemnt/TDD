@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+    <SAVINGS_ACCOUNT account_number='1234567890' balance='100.0' open_time_stamp="12345678"/>
+    <TRANSACTION account_number='1234567890' timestamp='1500' amount='1000' description="deposit"/>
+    <TRANSACTION account_number='1234567890' timestamp='3000' amount='2000' description="withdraw"/>
+</dataset>
